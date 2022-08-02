@@ -1,0 +1,32 @@
+OYNANIŞ
+
+Futbolcu Top Atarak -> Hedefileri vurur - Kalecileri vurarak geçer
+
+EKLENTİLER
+
+Oyuncuları geliştirmek için düşük seviye oyuncu birleştirme, a+a=b b+b=c c+c=d , gibi
+
+EKONOMİ
+
+Kalecilere Gol attıçca para alır
+
+STATS
+
+Krampon (Hız) - Top (Güç) -> Satın alarak gücünü arttırır
+
+Vuruş Gücü - Hız -> Satın alarak gücünü arttırır
+
+Yeni Futbolcu -> Satın alarak TEMEL gücünü ve hızını arttırır 
+
+Oyuncu sayısı -> Satın alarak daha fazla top atar
+
+EKLENTİYE GÖRE STAT -> Para ile alınacak en düşük seviye oyuncuyu arttırma
+
+-----------------------------------
+
+Belirli bir top sayısı ile başlatılıp Top bile bilir.
+
+
+
+
+
