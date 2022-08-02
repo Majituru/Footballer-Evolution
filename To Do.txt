@@ -1,0 +1,1 @@
+Player - FSM - HitDetect - State 2 -> Game Over Screen Benzeri Ekran Yapılacak
