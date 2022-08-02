@@ -1,0 +1,11 @@
+{
+  "name": "com.digitom.playmakerinputsystemactions",
+  "displayName": "Digitom.PlaymakerInputSystemActions",
+  "version": "0.0.2",
+  "unity": "2019.1",
+  "description": "Actions for the Input System.",
+  "type": "library",
+  "dependencies": {
+    "com.unity.inputsystem": "1.0.1"
+  }
+}

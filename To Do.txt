@@ -1,3 +1,7 @@
 Player - FSM - HitDetect - State 2 -> Game Over Screen Benzeri Ekran Yapılacak
 
 Top ile Enemy Ragdoll etkileşime girmeyecek
+
+Top kalenin arkasına geçmeyecek
+
+Kaleye Kaleci Koyualcak
