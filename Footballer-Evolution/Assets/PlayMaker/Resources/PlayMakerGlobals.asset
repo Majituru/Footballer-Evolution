@@ -21,18 +21,6 @@ MonoBehaviour:
       networkSync: 0
       value: 1
     - useVariable: 1
-      name: EnemyHealth
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: 0
-    - useVariable: 1
-      name: PlayerHealth
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      value: 0
-    - useVariable: 1
       name: MoneyCollection
       tooltip: 
       showInInspector: 0
@@ -44,7 +32,19 @@ MonoBehaviour:
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 0
+      value: 1
+    - useVariable: 1
+      name: EnemyHealth
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
+    - useVariable: 1
+      name: PlayerHealth
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 1
     boolVariables: []
     stringVariables: []
     vector2Variables: []
